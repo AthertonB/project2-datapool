@@ -1,0 +1,30 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+ 	color: black; 
+	font-size: 100px;
+ 	margin: 0;
+ 	font-family: Arial, Sans-serif;
+}
+
+.player {
+	border: 1px solid green;
+}
+
+.blue {
+	background: blue;
+}
+
+.red {
+	background: red;
+}
+
+.orange {
+	background: orange;
+}
