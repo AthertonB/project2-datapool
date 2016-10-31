@@ -1,35 +1,29 @@
-$(document).ready(function(){
+$(document).ready(function() {
+  $.ajax({
+    type: 'GET',
+    url: 'https://raw.githubusercontent.com/AthertonB/project2-datapool/master/scripts/data.json',
+    dataType: 'json',
+    success: function(data) {
 
-	// Get JSON file
-	$.ajax({
-		type: 'GET',
-		//url: './scripts/data.json',
-		//url: './scripts/data-test.json', 
-		dataType: 'json',
-		success: function(data) {
-
-			$.each(data, function(i, player){
+      $.each(data, function(i, person) {
 
 
 
-				faveColorsArray = player.faveColor.split(",");
-				// $.each(faveColorsArray, function(index, value) { 
-				// 	alert(index + ': ' + value);
-				// });
+        var ranLeft = Math.floor($(window).width('max-width', '300px') * Math.random());
+        var ranTop = Math.floor($(window).width() * Math.random());
+        $('#message').prepend('<div style="margin-left:' + ranLeft + 'px;font-size:' + (3 * person.stickeramount) + 'px" class="person">' + person.name + '</div>');
+        
+        if (person.sex == 'Female') {
+          $('.person').addClass("pink");
+        } else if (person.sex == 'Male') {
+          $('.person').addClass("blue");
+        }
 
+      })
 
-				$("#message").append('<div class="player red">'+faveColors[0] + "</div>");
-
-				// if (player.faveColor == "red") {
-				// 	$("#message").append('<div class="player red">'+player.name + "</div>");
-				// } else if (player.faveColor == "blue") {
-				// 	$("#message").append('<div class="player orange">'+player.name + "</div>");					
-				// } else if (player.faveColor == "orange") {
-				// 	$("#message").append('<div class="player blue">'+player.name + "</div>");					
-				// }
-		    });
-
-		}
-	});
-
+      $(".person").click(function() {
+        alert("The person was clicked.");
+      });
+    }
+  })
 });
