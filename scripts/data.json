@@ -13,7 +13,7 @@
         "meaning": 1
     },
     {
-        "name": "Elizabeth",
+        "name": "Elizabeth Dinin",
         "age": 20,
         "race": "Caucasian",
         "sex": "Female",
@@ -27,7 +27,7 @@
         "story": "Stuff I enjoy"
     },
     {
-        "name": "Zach",
+        "name": "Zach Hill",
         "age": 20,
         "race": "Caucasian",
         "sex": "Male",
@@ -83,7 +83,7 @@
         "story": "Each sticker reminds me of something or someone significant in my life. "
     },
     {
-        "name": "Jordan",
+        "name": "Jordan Morehouse",
         "age": 22,
         "race": "Caucasian",
         "sex": "Female",
@@ -137,7 +137,7 @@
         "meaning": "0"
     },
     {
-        "name": "Emily",
+        "name": "Emily Johnson",
         "age": 19,
         "race": "Caucasian",
         "sex": "Female",
@@ -151,7 +151,7 @@
         "story": "I care about and support the company(patagonia) and grew up and love michigan(enjoymichigan sticker)"
     },
     {
-        "name": "Lucas",
+        "name": "Lucas Schmidt",
         "age": 21,
         "race": "Caucasian",
         "sex": "Male",
@@ -161,7 +161,7 @@
         "stickeramount": 0.5
     },
     {
-        "name": "Chris",
+        "name": "Christ (or Kristen) Stanley",
         "age": 22,
         "race": "Caucasian",
         "sex": "Trans Woman",
@@ -199,7 +199,7 @@
         "stickeramount": 0.5
     },
     {
-        "name": "Nick",
+        "name": "Nick Schaffer",
         "age": 18,
         "race": "Caucasian",
         "sex": "Male",
@@ -300,7 +300,7 @@
         "story": "One was from a friend, and then there are letters shaped like bones that spell my name "
     },
     {
-        "name": "Eric",
+        "name": "Eric Wilson",
         "age": 24,
         "race": "Caucasian",
         "sex": "Male",
@@ -339,7 +339,7 @@
         "story": "They're from video games I like a lot"
     },
     {
-        "name": "Ryan",
+        "name": "Ryan Boyes",
         "age": 20,
         "race": "Caucasian",
         "sex": "Male",
@@ -514,5 +514,140 @@
         "text": 1,
         "meaning": 1,
         "story": "Things I love"
+    },
+    {
+        "name": "Farwa",
+        "age": 20,
+        "race": "South Asian",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 1,
+        "blackorcolor": "Black & white",
+        "text": 0,
+        "meaning": 0
+    },
+    {
+        "name": "Elliott",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Male",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 1,
+        "blackorcolor": "Black & white",
+        "text": 0,
+        "meaning": 1,
+        "story": "they are the things that i enjoy or like"
+    },
+    {
+        "name": "Jen ",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 3,
+        "blackorcolor": "Black & white",
+        "text": 1,
+        "meaning": 1,
+        "story": "My sisters are involving my sorority and detroit where I live."
+    },
+    {
+        "name": "Emily",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 2,
+        "blackorcolor": "Color",
+        "text": 0,
+        "meaning": 1
+    },
+    {
+        "name": "Kenneth",
+        "age": 20,
+        "race": "African American",
+        "sex": "Male",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "No",
+        "stickeramount": 5,
+        "blackorcolor": "Black & white",
+        "text": 1,
+        "meaning": 1,
+        "story": "They are all thinks that I like are that I relate with. They all represent me"
+    },
+    {
+        "name": "Megan",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "PC",
+        "stickers": "No",
+        "stickeramount": 1,
+        "blackorcolor": "Black & white",
+        "text": 0,
+        "meaning": 0
+    },
+    {
+        "name": "Laura",
+        "age": 21,
+        "race": "Latino/Hispanic",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "PC",
+        "stickers": "No",
+        "stickeramount": 1,
+        "blackorcolor": "Black & white",
+        "text": 0,
+        "meaning": 0,
+        "story": "No"
+    },
+    {
+        "name": "Danielle",
+        "age": 20,
+        "race": "Mixed",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "No",
+        "stickeramount": 0.5,
+        "text": 0,
+        "meaning": 0
+    },
+    {
+        "name": "Liz",
+        "age": 21,
+        "race": "Mixed",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 2,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "It's my school and I have mad Wayne state pride and my main student org."
+    },
+    {
+        "name": "Marinna",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 1,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "It is a foundation to save Iraqi christians"
     }
 ]
