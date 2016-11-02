@@ -14,6 +14,7 @@ body {
   margin: 0px;
   font-family: Arial, Sans-serif;
   position: absolute;
+  background-color:lightgrey;
 }
 
 .person {
@@ -34,4 +35,28 @@ body {
   float: right;
   margin-left: 15px;
   margin-right: 15px;
+}
+
+.rot-1 {
+  -ms-transform: rotate(3deg);
+  /* IE 9 */
+  -webkit-transform: rotate(3deg);
+  /* Chrome, Safari, Opera */
+  transform: rotate(3deg);
+}
+
+.rot-2 {
+  -ms-transform: rotate(-5deg);
+  /* IE 9 */
+  -webkit-transform: rotate(-5deg);
+  /* Chrome, Safari, Opera */
+  transform: rotate(-5deg);
+}
+
+.rot-3 {
+  -ms-transform: rotate(1deg);
+  /* IE 9 */
+  -webkit-transform: rotate(1deg);
+  /* Chrome, Safari, Opera */
+  transform: rotate(1deg);
 }
