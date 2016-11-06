@@ -14,7 +14,8 @@ body {
   margin: 0px;
   font-family: Arial, Sans-serif;
   position: absolute;
-  background-color:lightgrey;
+  background-color:grey;
+  
 }
 
 .person {
@@ -36,6 +37,7 @@ body {
   margin-left: 15px;
   margin-right: 15px;
 }
+
 
 .rot-1 {
   -ms-transform: rotate(3deg);
@@ -59,4 +61,20 @@ body {
   -webkit-transform: rotate(1deg);
   /* Chrome, Safari, Opera */
   transform: rotate(1deg);
+}
+
+.popup-box {
+  display: none;
+  color: #FFF;
+  width: 400px;
+  height: 400px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-left: -200px;
+  margin-top: -200px;
+  padding: 10px;
+  background: blue;
+  opacity: 0.7;
+  
 }
