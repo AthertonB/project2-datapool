@@ -1,5 +1,6 @@
 [
     {
+        "personid": "Brittany",
         "name": "Brittany",
         "age": 20,
         "race": "Caucasian",
@@ -13,6 +14,7 @@
         "meaning": 1
     },
     {
+        "personid": "Elizabeth",
         "name": "Elizabeth",
         "age": 20,
         "race": "Caucasian",
@@ -27,6 +29,7 @@
         "story": "Stuff I enjoy"
     },
     {
+        "personid": "Zach",
         "name": "Zach",
         "age": 20,
         "race": "Caucasian",
@@ -41,6 +44,7 @@
         "story": "They relate to my favorite hobby"
     },
     {
+        "personid": "Brian",
         "name": "Brian",
         "age": 19,
         "race": "Caucasian",
@@ -55,6 +59,7 @@
         "story": "Favorite Bands"
     },
     {
+        "personid": "EVA",
         "name": "EVA",
         "age": 21,
         "race": "Caucasian",
@@ -69,6 +74,7 @@
         "story": "They are stickers from stores I like, or cities I've been to, shows I've attended and also to support my friends arts"
     },
     {
+        "personid": "James",
         "name": "James",
         "age": 19,
         "race": "Caucasian",
@@ -83,6 +89,7 @@
         "story": "Each sticker reminds me of something or someone significant in my life. "
     },
     {
+        "personid": "Jordan",
         "name": "Jordan",
         "age": 22,
         "race": "Caucasian",
@@ -96,6 +103,7 @@
         "meaning": "0"
     },
     {
+        "personid": "A",
         "name": "A",
         "age": 24,
         "race": "Caucasian",
@@ -110,6 +118,7 @@
         "story": "I only put stickers on my laptop that are brands I like or personally represent"
     },
     {
+        "personid": "Rob",
         "name": "Rob",
         "age": 20,
         "race": "Caucasian",
@@ -124,6 +133,7 @@
         "story": "I made all of the stickers and they are all related to me"
     },
     {
+        "personid": "Kate",
         "name": "Kate",
         "age": 20,
         "race": "Caucasian",
@@ -137,6 +147,7 @@
         "meaning": "0"
     },
     {
+        "personid": "Emily",
         "name": "Emily",
         "age": 19,
         "race": "Caucasian",
@@ -151,6 +162,7 @@
         "story": "I care about and support the company(patagonia) and grew up and love michigan(enjoymichigan sticker)"
     },
     {
+        "personid": "Lucas",
         "name": "Lucas",
         "age": 21,
         "race": "Caucasian",
@@ -161,6 +173,7 @@
         "stickeramount": 0.5
     },
     {
+        "personid": "Chris",
         "name": "Chris",
         "age": 22,
         "race": "Caucasian",
@@ -175,6 +188,7 @@
         "story": "I've always wanted to cover my macbook in stickers, but since I do the same for my snowboard, I was only able to buy a few. I put down my favorite video games on my mac in hopes of a conversation starter.\n\nThe other reason is that in CCS, most students own macbooks. Adding stickers helps identify which one is mine."
     },
     {
+        "personid": "Danielle",
         "name": "Danielle",
         "age": 20,
         "race": "Caucasian",
@@ -189,6 +203,7 @@
         "story": "So yes and no. The majority of my stickers do mean  "
     },
     {
+        "personid": "Jess",
         "name": "Jess",
         "age": 29,
         "race": "Caucasian",
@@ -199,6 +214,7 @@
         "stickeramount": 0.5
     },
     {
+        "personid": "Nick",
         "name": "Nick",
         "age": 18,
         "race": "Caucasian",
@@ -209,6 +225,7 @@
         "stickeramount": 0.5
     },
     {
+        "personid": "Kate",
         "name": "Kate",
         "age": 31,
         "race": "Caucasian",
@@ -222,6 +239,7 @@
         "meaning": "0"
     },
     {
+        "personid": "Ashley",
         "name": "Ashley",
         "age": 25,
         "race": "Caucasian",
@@ -232,6 +250,7 @@
         "stickeramount": 0.5
     },
     {
+        "personid": "Christina",
         "name": "Christina",
         "age": 23,
         "race": "Caucasian",
@@ -246,6 +265,7 @@
         "story": "Some of them were given as gifts, some are from concerts I've been to or from bands that mean a lot to me, some are just for fun or things that I like"
     },
     {
+        "personid": "Enxhi",
         "name": "Enxhi",
         "age": 20,
         "race": "Caucasian",
@@ -260,6 +280,7 @@
         "story": "they are characters from my favorite shows"
     },
     {
+        "personid": "Monica",
         "name": "Monica",
         "age": 20,
         "race": "Caucasian",
@@ -274,6 +295,7 @@
         "story": "A friend gave it to me, its just cute and it makes me smile when I see it."
     },
     {
+        "personid": "Kyle",
         "name": "Kyle",
         "age": 20,
         "race": "Caucasian",
@@ -286,6 +308,7 @@
         "meaning": "0"
     },
     {
+        "personid": "Holly",
         "name": "Holly",
         "age": 23,
         "race": "Caucasian",
@@ -300,6 +323,7 @@
         "story": "One was from a friend, and then there are letters shaped like bones that spell my name "
     },
     {
+        "personid": "Eric",
         "name": "Eric",
         "age": 24,
         "race": "Caucasian",
@@ -311,6 +335,7 @@
         "text": "0"
     },
     {
+        "personid": "Chris",
         "name": "Chris",
         "age": 18,
         "race": "Caucasian",
@@ -325,6 +350,7 @@
         "story": "The show where I come from"
     },
     {
+        "personid": "EM",
         "name": "EM",
         "age": 20,
         "race": "Caucasian",
@@ -339,6 +365,7 @@
         "story": "They're from video games I like a lot"
     },
     {
+        "personid": "Ryan",
         "name": "Ryan",
         "age": 20,
         "race": "Caucasian",
@@ -353,6 +380,7 @@
         "story": "A lot of my stickers are designs from some of my favorite series' and a lot of them are stickers that i've drawn myself. "
     },
     {
+        "personid": "Jess",
         "name": "Jess",
         "age": 20,
         "race": "Caucasian",
@@ -367,6 +395,7 @@
         "story": "VIDEO GAMES"
     },
     {
+        "personid": "Sarah",
         "name": "Sarah",
         "age": 20,
         "race": "Caucasian",
@@ -381,6 +410,7 @@
         "story": "All of my stickers are fan-art of characters from shows that I like."
     },
     {
+        "personid": "Yugo",
         "name": "Yugo",
         "age": 20,
         "race": "Caucasian",
@@ -395,6 +425,7 @@
         "story": "I super like all the characters and designs they represent, and i feel happy every time i see them!"
     },
     {
+        "personid": "Jade",
         "name": "Jade",
         "age": 18,
         "race": "East Asian",
@@ -409,6 +440,7 @@
         "story": "n/a"
     },
     {
+        "personid": "Natalie",
         "name": "Natalie",
         "age": 21,
         "race": "Caucasian",
@@ -423,6 +455,7 @@
         "story": "My Bernie Sanders one is important, as his whole campaign gave such hope, and my others are of Detroit––important as I live here and love the city."
     },
     {
+        "personid": "Annie",
         "name": "Annie",
         "age": 19,
         "race": "Caucasian",
@@ -433,6 +466,7 @@
         "stickeramount": 0.5
     },
     {
+        "personid": "Archibald",
         "name": "Archibald",
         "age": 20,
         "race": "Caucasian",
@@ -447,6 +481,7 @@
         "story": "inspirational quotes and stuff. a friends hat/charity company thing. bands i like."
     },
     {
+        "personid": "Jaren",
         "name": "Jaren",
         "age": 20,
         "race": "Caucasian",
@@ -461,6 +496,7 @@
         "story": "My \"Gay for Detroit\" sticker matches how I feel about Detroit: Gay."
     },
     {
+        "personid": "William",
         "name": "William",
         "age": 19,
         "race": "Caucasian",
@@ -475,6 +511,7 @@
         "story": "A lot of them are from friends and anime/cartoons that I enjoy. I also have a couple K-pop stickers, a couple social justice stickers, and one promoting a local artist. About 70% are stickers that my friends made/gave me, and the rest are gifts or ones that I bought on Redbubble."
     },
     {
+        "personid": "Nigel",
         "name": "Nigel",
         "age": 22,
         "race": "African American",
@@ -489,6 +526,7 @@
         "story": "Can Define A Person's Personality, Interests, and Dreams One Glance"
     },
     {
+        "personid": "Ben",
         "name": "Ben",
         "age": 21,
         "race": "Caucasian",
@@ -502,6 +540,7 @@
         "story": "They remind me to be awesome."
     },
     {
+        "personid": "Alyssa",
         "name": "Alyssa",
         "age": 19,
         "race": "Mixed",
@@ -516,6 +555,7 @@
         "story": "Things I love"
     },
     {
+        "personid": "Farwa",
         "name": "Farwa",
         "age": 20,
         "race": "South Asian",
@@ -529,6 +569,7 @@
         "meaning": 0
     },
     {
+        "personid": "Elliott",
         "name": "Elliott",
         "age": 20,
         "race": "Caucasian",
@@ -543,6 +584,7 @@
         "story": "they are the things that i enjoy or like"
     },
     {
+        "personid": "Jen",
         "name": "Jen",
         "age": 20,
         "race": "Caucasian",
@@ -557,6 +599,7 @@
         "story": "My sisters are involving my sorority and detroit where I live."
     },
     {
+        "personid": "Emily",
         "name": "Emily",
         "age": 20,
         "race": "Caucasian",
@@ -570,6 +613,7 @@
         "meaning": 1
     },
     {
+        "personid": "Kenneth",
         "name": "Kenneth",
         "age": 20,
         "race": "African American",
@@ -584,6 +628,7 @@
         "story": "They are all thinks that I like are that I relate with. They all represent me"
     },
     {
+        "personid": "Megan",
         "name": "Megan",
         "age": 20,
         "race": "Caucasian",
@@ -597,6 +642,7 @@
         "meaning": 0
     },
     {
+        "personid": "Laura",
         "name": "Laura",
         "age": 21,
         "race": "Latino/Hispanic",
@@ -611,6 +657,7 @@
         "story": "No"
     },
     {
+        "personid": "Danielle",
         "name": "Danielle",
         "age": 20,
         "race": "Mixed",
@@ -623,6 +670,7 @@
         "meaning": 0
     },
     {
+        "personid": "Liz",
         "name": "Liz",
         "age": 21,
         "race": "Mixed",
@@ -637,6 +685,7 @@
         "story": "It's my school and I have mad Wayne state pride and my main student org."
     },
     {
+        "personid": "Marinna",
         "name": "Marinna",
         "age": 20,
         "race": "Caucasian",
@@ -649,5 +698,381 @@
         "text": 1,
         "meaning": 1,
         "story": "It is a foundation to save Iraqi christians"
+    },
+    {
+        "personid": "Adam",
+        "name": "Adam",
+        "age": 25,
+        "race": "Caucasian",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 2,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "They are for where I am from"
+    },
+    {
+        "personid": "Harry",
+        "name": "Harry",
+        "age": 24,
+        "race": "Caucasian",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "No",
+        "stickeramount": 10,
+        "blackorcolor": "Color",
+        "text": 0,
+        "meaning": 1,
+        "story": "Because I have no stickers"
+    },
+    {
+        "personid": "Irma",
+        "name": "Irma",
+        "age": 18,
+        "race": "Latino/Hispanic",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 1,
+        "blackorcolor": "Black & white",
+        "text": 0,
+        "meaning": 1,
+        "story": "The one sticker is the (I guess you could say) \"logo\" or symbol representing my favorite childhood video game. It brings back a lot of good memories."
+    },
+    {
+        "personid": "Karlie",
+        "name": "Karlie",
+        "age": 18,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "No"
+    },
+    {
+        "personid": "H",
+        "name": "H",
+        "age": 21,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 3,
+        "blackorcolor": "Black & white",
+        "text": 1,
+        "meaning": 1,
+        "story": "I have an \"action cures fear\" sticker next to my keyboard that I use to motivate me as I work."
+    },
+    {
+        "personid": "Stephen",
+        "name": "Stephen",
+        "age": 19,
+        "race": "Mixed",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 5,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1
+    },
+    {
+        "personid": "Collin",
+        "name": "Collin",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 15,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "Brands of stuff I like"
+    },
+    {
+        "personid": "Sarah",
+        "name": "Sarah",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 7,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "School related/interest related"
+    },
+    {
+        "personid": "essjai",
+        "name": "essjai",
+        "age": 19,
+        "race": "Latino/Hispanic",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 6,
+        "blackorcolor": "Black & white",
+        "text": 1,
+        "meaning": 1,
+        "story": "theyre what i like or what im involved in like i have a ccs sticker"
+    },
+    {
+        "personid": "Mike",
+        "name": "Mike",
+        "age": 19,
+        "race": "Caucasian",
+        "sex": "Male",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 5,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "It marks my property so it's less likely to be used or taken. It also communicates my interests and likes to others."
+    },
+    {
+        "personid": "yihao",
+        "name": "yihao",
+        "age": 25,
+        "race": "East Asian",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 2,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "Some motto"
+    },
+    {
+        "personid": "Gung",
+        "name": "Gung",
+        "age": 18,
+        "race": "East Asian",
+        "sex": "Male",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "No",
+        "stickeramount": 1,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "It explains processor"
+    },
+    {
+        "personid": "don",
+        "name": "don",
+        "age": 30,
+        "race": "African American",
+        "sex": "Male",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickeramount": 8,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "bacuse"
+    },
+    {
+        "personid": "Ying",
+        "name": "Ying",
+        "age": 20,
+        "race": "East Asian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "No",
+        "stickeramount": 1,
+        "blackorcolor": "Black & white",
+        "text": 0,
+        "meaning": 0
+    },
+    {
+        "personid": "Lewei",
+        "name": "Lewei",
+        "age": 24,
+        "race": "East Asian",
+        "sex": "Male",
+        "wayneorccs": "Wayne State",
+        "macpc": "Mac",
+        "stickers": "No"
+    },
+    {
+        "personid": "Shaoqian",
+        "name": "Shaoqian",
+        "age": 28,
+        "race": "East Asian",
+        "sex": "Male",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 1,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "A souvenir from my hometown"
+    },
+    {
+        "personid": "Paige",
+        "name": "Paige",
+        "age": 18,
+        "race": "Other",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 11,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "All of them really tie me back to my home which is a huge part of who I am and the values I hold. 8 of the stickers are specific to Colorado and you can get nowhere else. Colorado means so much for me because of the unique culture and closeness of all the people and my experiences with nature and hardwork. Two of them were created by my brother, who is a graphic designer in Colorado. One of them is from a local printing company that I use for my artwork. One is my favorite sports team, which sound kind of cliche, but if you ever go to one of their games, it really moves you because of how hardcore they are. I have a band sticker from one of my friends groups, but their music is actually amazing and they are close to one of my favorite bands. Then I have a sticker for a small nonprofit place that I find immensely impactful. Lastly I have a record label I like, go pro for badassness, and a ccs sticker for where I define my future."
+    },
+    {
+        "personid": "Sydney",
+        "name": "Sydney",
+        "age": 20,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 6,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "Every time I go to a festival or a favorite shop I try to get a sticker. That way whenever I look at my laptop it reminds me of specific memories with family and friends."
+    },
+    {
+        "personid": "Nick",
+        "name": "Nick",
+        "age": 19,
+        "race": "Caucasian",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 2,
+        "blackorcolor": "Black & white",
+        "text": 1,
+        "meaning": 1,
+        "story": "I have a Canon DSLR camera sticker. My friend got it for me for Christmas because I used to be a yearbook editor. I also have a CCS sticker."
+    },
+    {
+        "personid": "Megan",
+        "name": "Megan",
+        "age": 18,
+        "race": "Latino/Hispanic",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 9,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "I don't just put stickers on my laptop because they're cute, I put stickers on my laptop that represent me as a person. I have my favorite things on my laptop and I love sharing them with others."
+    },
+    {
+        "personid": "Drae",
+        "name": "Drae",
+        "age": 20,
+        "race": "African American",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 3,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 0,
+        "story": "Nah they look cool"
+    },
+    {
+        "personid": "Jordan",
+        "name": "Jordan",
+        "age": 21,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 2,
+        "blackorcolor": "Black & white",
+        "text": 1,
+        "meaning": 1,
+        "story": "One sticker I received at a music festival so it brings back fond memories of that experience and also shows I am part of that community. The other sticker is a graphic of the universe in which i got in order to support a local artist at a small art venue."
+    },
+    {
+        "personid": "Aly",
+        "name": "Aly",
+        "age": 18,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 15,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "Vacations or brands i love tattoo shops and such"
+    },
+    {
+        "personid": "Anticxz",
+        "name": "Anticxz",
+        "age": 31,
+        "race": "Caucasian",
+        "sex": "Male",
+        "wayneorccs": "CCS",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 1,
+        "blackorcolor": "Black & white",
+        "text": 0,
+        "meaning": 1,
+        "story": "I use a PC but have an Apple logo on my laptop. It's a subtle dig at Apple because I think their platform conforms more users than the brand frees, something that it's origins spoke out against."
+    },
+    {
+        "personid": "Meah",
+        "name": "Meah",
+        "age": 18,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "Mac",
+        "stickers": "Yes",
+        "stickeramount": 3,
+        "blackorcolor": "Black & white",
+        "text": 1,
+        "meaning": 0,
+        "story": "Mostly company stickers or ccs stickers"
+    },
+    {
+        "personid": "Hope",
+        "name": "Hope",
+        "age": 18,
+        "race": "Caucasian",
+        "sex": "Female",
+        "wayneorccs": "CCS",
+        "macpc": "PC",
+        "stickers": "Yes",
+        "stickeramount": 12,
+        "blackorcolor": "Color",
+        "text": 1,
+        "meaning": 1,
+        "story": "They're music related"
     }
 ]
